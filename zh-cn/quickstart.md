@@ -37,7 +37,7 @@ aos make helloworld@linuxhost
 ./out/helloworld@linuxhost/binary/helloworld@linuxhost.elf
 ```
 
-## 效果
+## 啥
 
 可以看见 `app_delayed_action` 在1秒时启动，每5秒触发一次。
 ```bash
